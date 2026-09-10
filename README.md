@@ -48,7 +48,7 @@ python server.py
 ```
 
 Open your web browser and visit:
-👉 **http://localhost:8000/**
+👉 **https://saimanipothuri-boop.github.io/railblock-ai/**
 
 ---
 
